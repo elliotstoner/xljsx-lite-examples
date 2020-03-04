@@ -1,0 +1,23 @@
+{
+  "name": "xljsx-lite-examples",
+  "version": "1.0.0",
+  "description": "Example Node application for how to use xljsx-lite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotstoner/xljsx-lite-examples.git"
+  },
+  "author": "Elliot Stoner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotstoner/xljsx-lite-examples/issues"
+  },
+  "homepage": "https://github.com/elliotstoner/xljsx-lite-examples#readme",
+  "dependencies": {
+    "xljsx-lite": "^1.0.1",
+    "lodash.map": "^4.0.1"
+  }
+}
